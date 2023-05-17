@@ -1,0 +1,12 @@
+torch
+torchaudio
+pytorch-lightning
+librosa
+scipy
+tqdm
+opencv-python
+sacred
+einops
+Unidecode
+inflect
+Cython

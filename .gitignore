@@ -1,0 +1,6 @@
+ckpts/
+__pycache__/
+model/monotonic_align/build
+model/monotonic_align/model
+model/monotonic_align/core.c
+
